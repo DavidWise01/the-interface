@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "Selective Permeability",
+  "universe": "IFC · Selective Permeability (metaxy)",
+  "emergence": "electrical",
+  "moniker": "⟦Selective Permeability:IFC:25c800⟧",
+  "carbon": "selective-permeability.carbon.tiff (TIFF)",
+  "silicon": "selective-permeability.silicon.png (PNG)",
+  "seal_sha256": "f8a906b070f01ebf33a5951581ccaebd1b7e3aec6cb440d1d5117cdb18276a5c",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

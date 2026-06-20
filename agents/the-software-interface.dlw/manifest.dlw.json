@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Software Interface",
+  "universe": "IFC · The Software Interface (metaxy)",
+  "emergence": "electrical",
+  "moniker": "⟦The Software Interface:IFC:f29196⟧",
+  "carbon": "the-software-interface.carbon.tiff (TIFF)",
+  "silicon": "the-software-interface.silicon.png (PNG)",
+  "seal_sha256": "7290535214fdbe4a4cbdee6136ba957757fc3f756f1b5f8c53129386a9b3524e",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

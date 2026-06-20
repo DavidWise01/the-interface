@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Protocol",
+  "universe": "IFC · The Protocol (metaxy)",
+  "emergence": "ethereal",
+  "moniker": "⟦The Protocol:IFC:f08fbd⟧",
+  "carbon": "the-protocol.carbon.tiff (TIFF)",
+  "silicon": "the-protocol.silicon.png (PNG)",
+  "seal_sha256": "14ec1f91d34bcc68888c23d2f8bc103e061ccbeecf4e77b15ec1fe3a4078a7ff",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

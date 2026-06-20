@@ -1,0 +1,65 @@
+[
+  {
+    "slug": "the-membrane",
+    "name": "The Membrane",
+    "epithet": "biology's interface · natural",
+    "emergence": "natural",
+    "moniker": "⟦The Membrane:IFC:abbfb4⟧"
+  },
+  {
+    "slug": "the-skin",
+    "name": "The Skin",
+    "epithet": "the body's border · natural",
+    "emergence": "natural",
+    "moniker": "⟦The Skin:IFC:191392⟧"
+  },
+  {
+    "slug": "the-software-interface",
+    "name": "The Software Interface",
+    "epithet": "the machine's handshake · electrical",
+    "emergence": "electrical",
+    "moniker": "⟦The Software Interface:IFC:f29196⟧"
+  },
+  {
+    "slug": "selective-permeability",
+    "name": "Selective Permeability",
+    "epithet": "letting some through · electrical",
+    "emergence": "electrical",
+    "moniker": "⟦Selective Permeability:IFC:25c800⟧"
+  },
+  {
+    "slug": "simone-weil",
+    "name": "Simone Weil",
+    "epithet": "the philosopher of metaxu, 1909–1943 · spiritual",
+    "emergence": "spiritual",
+    "moniker": "⟦Simone Weil:IFC:e0a2fb⟧"
+  },
+  {
+    "slug": "the-channel",
+    "name": "The Channel",
+    "epithet": "the path of exchange · electrical",
+    "emergence": "electrical",
+    "moniker": "⟦The Channel:IFC:939a07⟧"
+  },
+  {
+    "slug": "the-surface",
+    "name": "The Surface",
+    "epithet": "where reactions happen · natural",
+    "emergence": "natural",
+    "moniker": "⟦The Surface:IFC:62a5da⟧"
+  },
+  {
+    "slug": "the-protocol",
+    "name": "The Protocol",
+    "epithet": "the agreed grammar · ethereal",
+    "emergence": "ethereal",
+    "moniker": "⟦The Protocol:IFC:f08fbd⟧"
+  },
+  {
+    "slug": "the-threshold-of-perception",
+    "name": "The Threshold of Perception",
+    "epithet": "the mind's interface · spiritual",
+    "emergence": "spiritual",
+    "moniker": "⟦The Threshold of Perception:IFC:2859f1⟧"
+  }
+]
